@@ -1,0 +1,15 @@
+version: "3.6"
+services:
+  dev_pyton:
+    container_name: dev_pyton
+    build:
+      context: .
+      dockerfile: Dockerfile_Pyton
+    volumes:
+      - ../:/home/jovyan/work
+    ports:
+      - 8888:8888
+    working_dir: /home/jovyan/work
+    tty: true
+    stdin_open: true
+  
