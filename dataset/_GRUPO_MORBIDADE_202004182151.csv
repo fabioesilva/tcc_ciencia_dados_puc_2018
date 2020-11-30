@@ -1,0 +1,23 @@
+CAPITULO_CID;DESCRICAO_GRUPO_MORBIDADE;FAIXA_CID_10;BODY_SYSTEM
+0;Nao disponivel ou nao preenchido ou invalido;U99, em branco ou invalido;NULL
+1;Algumas doencas infecciosas e parasitᲩas;A00-B99;1
+2;Neoplasmas [tumores];C00-D48;2
+3;Doencas do sangue e dos orgaos hematopoeticos e alguns transtornos imunitarios;D50-D89;4
+4;Doencas endocrinas, nutricionais e metabolicas;E00-E90;3
+5;Transtornos mentais e comportamentais;F00-F99;5
+6;Doencas do sistema nervoso;G00-G99;6
+7;Doencas do olho e anexos;H00-H59;NULL
+8;Doencas do ouvido e da apofise mastoide;H60-H95;NULL
+9;Doencas do aparelho circulatorio;I00-I99;7
+10;Doencas do aparelho respiratorio;J00-J99;8
+11;Doencas do aparelho digestivo;K00-K93;9
+12;Doencas da pele e do tecido subcutaneo;L00-L99;12
+13;Doencas do sistema osteomuscular e do tecido conjuntivo;M00-M99;13
+14;Doencas do aparelho geniturinario;N00-N99;NULL
+15;Gravidez, parto e puerperio;O00-O99;11
+16;Algumas afeccoes originadas no periodo perinatal;P00-P96;15
+17;Malformacoes congenitas, deformidades e anomalias cromossomicas;Q00-Q99;NULL
+18;Sintomas, sinais e achados anormais de exames clinicos e de laboratorio, nao classificados em outra parte;R00-R99;16
+19;Lesoes, envenenamentos e algumas outras consequencias de causas externas;S00-T98;17
+20;Causas externas de morbidade e de mortalidade;V01-Y98;NULL
+21;Fatores que influenciam o estado de saude e o contato com os servicos de saude;Z00-Z99;18
