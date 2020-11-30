@@ -32,4 +32,16 @@ Traçar um panorama das informações e suas correlações e avaliar o modelo de
 Os dados de custo das morbidades por internações são de origem do SUS são do período de 2016 a 2017. E os dados de morbidades autorreferidas foram gerados a partir do modelo de informação do PSF é uma base de desenvolvimento e a data de coleta não é relevante 
 
 
+   
+<h3>Processamento/Tratamento de Dados</h3><br>
+<p>
+A ferramenta escolhida para o processamento de dados foi o python (Python, n.d.) na versão jupyter/datascience-notebook:latest, disponível em (Docker Hub, n.d.). Os fontes do projeto foram publicados no controlador de versão github. Para facilitar a montagem do ambiente, foi utilizada a estratégia de container através da ferramenta Docker disponível em (Docker, n.d.). Explicando de forma simplificada, o Docker cria um ambiente operacional com os requisitos específicos e mínimos para execução de um determinado ambiente. A estrutura do projeto tem as seguintes pastas:
+</p>    
 
+* **dataset:** contém os datasets utilizados disponível em https://drive.google.com/drive/folders/10AvFcaHCenNWJMeaXLyNpiQ9H6NWczae?usp=sharing
+* **docker_jupyter:** contém os arquivos de configuração do ambiente;
+* **fontes:** contém os arquivos de codificação;
+
+<p>
+Para criar o mesmo ambiente utilizado no projeto é preciso instalar o Docker; no Windows deve-se instalar o Docker Desktop e no Linux baixar e instalar o Docker em acordo com a distribuição. Com o Docker instalado, deve-se acessar a pasta docker_jupyter do projeto e executar o comando “docker-compose up -d --build”. Após o término da montagem do ambiente executada pelo comando de build, basta abrir o browser e digitar a ULR http://127.0.0.1:8888/ para executar o Jupyter.
+</p>
