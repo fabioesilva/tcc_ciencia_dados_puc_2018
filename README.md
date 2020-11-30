@@ -1,4 +1,4 @@
-<h3><center>TRABALHO DE CONCLUSÃO DE CURSO</center><br>
+<h3><center>TRABALHO DE CONCLUSÃO DE CURSO</center><br></h3>
 <p>
 No trabalho de (Moraes et al., 2011) uma das conclusões aponta “interações estatisticamente significantes entre a área de localização do domicílio e as seguintes variáveis: sexo, cor/raça, morbidade autorreferida, posse de bens básicos e percentual de domicílios adequados quanto a qualidade de moradia”. O trabalho de (Melo et al., 2019), aponta que a acurácia do auto relato é relevante para pesquisas feitas no contexto municipal do Acre. Já o trabalho (Tavares et al., 2019) aponta que “a presença de duas ou mais morbidades e a associação com variáveis so- cioeconômicas e de saúde demonstram a necessidade de ações de monitoramento e controle desses fatores entre idosos nessa condição”. Por fim, o trabalho de (Galdino, 2019) discorre sobre a relevância de analisar as condições crônicas que consome a maior parte dos recursos destinados ao tratamento destas doenças. 
 </p>
